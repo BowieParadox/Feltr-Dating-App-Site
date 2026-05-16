@@ -1,8 +1,8 @@
-# Feltr-Dating-App-TEMPLATE
+# Feltr - Dating App Site (Template)
 
 ## 📝 Description
 
-Feltr-Dating-App-TEMPLATE is from a project that I worked on while studying Full Stack Development by Dr. Angela Yu. This is my take on the "11.3 TinDog Project" from her course. Feel free to use the template.
+Feltr - Dating App Site is a template created from a project while studying Full Stack Development by Dr. Angela Yu. This is my take on the "11.3 TinDog Project" from her course. Feel free to use the template.
 
 ## ⚡ Quick Start
 
