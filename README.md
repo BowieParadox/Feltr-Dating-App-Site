@@ -9,7 +9,7 @@ Feltr-Dating-App-TEMPLATE is from a project that I worked on while studying Full
 ```bash
 
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/BowieParadox/Feltr-Dating-App-TEMPLATE.git
 
 # Install dependencies and run
 
