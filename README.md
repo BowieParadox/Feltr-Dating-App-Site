@@ -17,11 +17,11 @@ git clone https://github.com/BowieParadox/Feltr-Dating-App-TEMPLATE.git
 ```
 
 ## 📸 Screenshots
-![screenshot](./Website-Page-Screenshot-FullView.png)
+![screenshot](./docs/Website-Page-Screenshot-FullView.png)
 
-![screenshot](./Website-Page-Screenshot-TopHalf.png)
+![screenshot](./docs/Website-Page-Screenshot-TopHalf.png)
 
-![screenshot](./Website-Page-Screenshot-BottomHalf.png)
+![screenshot](./docs/Website-Page-Screenshot-BottomHalf.png)
 
 
 ## 📁 Project Structure
